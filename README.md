@@ -86,4 +86,16 @@ Push to the branch (git push origin feature/my-feature)
 Open a Pull Request
 
 * Screeshots of app are shared below
-  
+![Screenshot_2025-06-01-15-25-55-660_com example flutter_projects](https://github.com/user-attachments/assets/3e8eb474-0e0b-4c7b-8450-6c3cd365430c)
+![Screenshot_2025-06-01-15-25-58-077_com example flutter_projects](https://github.com/user-attachments/assets/6c436150-3e17-4e4d-9bdd-27a7a0c7fefd)
+![Screenshot_2025-06-01-15-26-00-356_com example flutter_projects](https://github.com/user-attachments/assets/0ab59136-58ad-4e61-afeb-2c2ce07a026d)
+![Screenshot_2025-06-01-15-26-05-466_com example flutter_projects](https://github.com/user-attachments/assets/0b5834f4-5bca-4c49-9525-d6cc798a38d3)
+![Screenshot_2025-06-01-15-29-51-114_com gallery player](https://github.com/user-attachments/assets/548ed08c-7841-4d7b-86a0-c3dae37e4e31)
+![Screenshot_2025-06-01-15-29-53-774_com gallery player](https://github.com/user-attachments/assets/4659e379-cca6-47c0-90d9-195a4972a474)
+![Screenshot_2025-06-01-15-30-06-271_com gallery player](https://github.com/user-attachments/assets/f71c9b28-61e6-4d42-a5a3-2f2ef914996b)
+![Screenshot_2025-06-01-15-31-34-613_com example flutter_projects](https://github.com/user-attachments/assets/82426835-7227-4d76-85de-72714abb3ee2)
+![Screenshot_2025-06-01-15-31-39-128_com example flutter_projects](https://github.com/user-attachments/assets/899fa7fe-8ef3-4d96-9770-787024601fc6)
+![Screenshot_2025-06-01-15-31-42-228_com example flutter_projects](https://github.com/user-attachments/assets/35407580-1020-4339-bb81-b1e31f9d8688)
+![Screenshot_2025-06-01-15-31-45-472_com example flutter_projects](https://github.com/user-attachments/assets/8e740614-cd15-4e09-ae09-6ceba16a2acb)
+![Screenshot_2025-06-01-15-25-51-380_com example flutter_projects](https://github.com/user-attachments/assets/10f0f20d-8d04-486d-8239-0676e8494dfb)
+
