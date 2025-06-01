@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_projects
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# nearBuy
+HyperLocal Ecommerce customer app for giving exposure to local vendors
+>>>>>>> 42f1afe6c5637a967cca05fee3c8d1e0cbdb9e8c

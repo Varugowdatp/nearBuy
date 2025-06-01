@@ -162,7 +162,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                         validator:
                             (value) =>
                                 value!.isEmpty
-                                    ? 'Enter your phone number'
+                                    ? 'Enter your Phone number'
                                     : null,
                       ),
                       const SizedBox(height: 24),
@@ -172,7 +172,10 @@ class _ProfileScreenState extends State<ProfileScreen> {
                         style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.green,
                         ),
-                        child: const Text("Save Profile",style: TextStyle(color: Colors.white),),
+                        child: const Text(
+                          "Save Profile",
+                          style: TextStyle(color: Colors.white),
+                        ),
                       ),
                     ],
                   ),
