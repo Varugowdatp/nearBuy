@@ -85,8 +85,5 @@ Push to the branch (git push origin feature/my-feature)
 
 Open a Pull Request
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 * Screeshots of app are shared below
   
